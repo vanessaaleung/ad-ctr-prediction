@@ -1,4 +1,5 @@
 # Ads Click-Through-Rate Prediction
+Predict ads click-through-rate on a user-ads category level.
 
 ## **Data**
 [Ad Display/Click Data on Taobao.com](https://tianchi.aliyun.com/dataset/dataDetail?dataId=56)
@@ -16,7 +17,7 @@ This dataset is provided by Alimama and contains 1.14 million users behavior on 
 We used BigQuery to sample 5 million users from the dataset and merge all the tables.
 
 ## **Exploratory Data Analysis**
-
+<img src="eda.png" width="700px">
 
 ## **Models**
 - Logistic Regression, Random Forest with Sklearn
