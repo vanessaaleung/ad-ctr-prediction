@@ -1,5 +1,5 @@
 # Ads Click-Through-Rate Prediction
-Predict ads click-through-rate on a user-ads category level.
+Predict ads click-through-rate on a user-ads category level. Check the presentation deck [here](https://docs.google.com/presentation/d/1dN4TaYZcPWpv2UaOVRHlBH_YVP0nesZbYZ-prGP1oCQ/edit?usp=sharing).
 
 ## **Data**
 [Ad Display/Click Data on Taobao.com](https://tianchi.aliyun.com/dataset/dataDetail?dataId=56)
