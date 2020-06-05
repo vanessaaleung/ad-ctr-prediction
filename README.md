@@ -20,6 +20,8 @@ We used BigQuery to sample 5 million users from the dataset and merge all the ta
 <img src="eda.png" width="700px">
 
 ## **Models**
+<img src="model_process.png" width="700px">
+
 - Logistic Regression, Random Forest with Sklearn
 - Logistic Regression, Random Forest with Spark MLlib
 - [Deep Interest Network Model](https://arxiv.org/pdf/1706.06978.pdf)
